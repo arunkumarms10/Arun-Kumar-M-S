@@ -13,10 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 import jbr.springmvc.model.Counter;
 import jbr.springmvc.service.ContactService;
 
-/**
-*
-* @author Vikram
-*/
+
 @Controller
 public class ContactController {
 
