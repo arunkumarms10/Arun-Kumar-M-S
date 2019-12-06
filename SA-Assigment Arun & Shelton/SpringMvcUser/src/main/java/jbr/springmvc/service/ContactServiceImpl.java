@@ -21,7 +21,7 @@ public class ContactServiceImpl  implements ContactService{
                                 if(counter.equalsIgnoreCase("countera")){
                                                 message="countera.jsp";
                                                 
-                                                 String to="nandhinimay29@gmail.com";
+                                                 String to="arunkms10@gmail.com";
                                                 sendEmail(to);
                                 }
                                 else {
